@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "4e2a343e75ed065b939e6e6d",
+  "owner": "neejxxpus",
+  "repo": "page-621e8bb92bcb0a8b886544ad",
+  "title": "ClashX官方下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "621e8bb92bcb0a8b886544ad",
+      "a": "泡芙云",
+      "b": "ClashX官方下载",
+      "entity": "泡芙云",
+      "brand": "ClashX官方下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "133dad8e7821f1316c610a1cfb37fa792f7cad823fe64a5eaf33ea4ae12f3e13",
+      "content": {
+        "primary_entity": "泡芙云",
+        "keyword1": "泡芙云",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端，Windows、macOS、iOS、Android 各有对应工具，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_DESCRIPTION": "，泡芙云提供基础版、旗舰版与团队版三档订阅方案，月付与年付按需选择，覆盖个人到小型团队的不同规模。基础版每月 100GB 流量，支持 3 台设备，适合手机与电脑轻度使用；旗舰版每月 300GB 流量，支持 5 台设备，并配备 IPLC 专线用于游戏加速；团队版每月 1000GB 流量，支持 20 台设备，提供专属高带宽节点与企业定制路由。客户端可按系统选择 Clash 类工具或对应移动端应用，订阅导入后即可在多设备间同步使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与订阅周期三个角度快速匹配合适方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "按月付或年付选择，年付折算更省，按使用周期灵活切换。",
+          "AI_FEATURE_TITLE_1": "订阅周期",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数对应。",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TEXT_3": "100GB 适合轻度浏览，300GB 满足日常流媒体，1000GB 适合多人共享。",
+          "AI_FEATURE_TITLE_3": "流量规划",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的过程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "泡芙云提供多档海外加速订阅，按流量与设备数量区分方案，覆盖日常浏览、流媒体与游戏加速场景，适配常见桌面与移动客户端。",
+          "AI_HERO_SUBTITLE": "多档订阅，覆盖常见设备",
+          "AI_HIGHLIGHT_1": "基础版月付 15 元起",
+          "AI_HIGHLIGHT_2": "旗舰版支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备共享",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多人共享场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数和每月用量，在基础版、旗舰版与团队版中选择。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认设备系统与同时在线数量，核对所选套餐是否满足需求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址，按工具文档完成连接配置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "泡芙云多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版 100GB 适合单人轻量使用；旗舰版 300GB 并支持 5 台设备，适合家庭或高频用户；团队版 1000GB 与 20 台设备面向小型团队。",
+          "AI_FAQ_ANSWER_2": "在对应客户端中导入订阅链接即可，具体操作步骤请参考各客户端的配置文档，配置完成一般自动同步节点。",
+          "AI_FAQ_ANSWER_3": "各套餐支持的在线设备数不同：基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量时，新设备可能无法连接。",
+          "AI_FAQ_ANSWER_4": "月付按各版本标价收取；按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相当于节省两个月费用。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版提供不同优先级的工单支持；团队版配有专属客户经理协助处理路由与节点问题。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何根据流量和人数选择套餐？",
+          "AI_FAQ_QUESTION_2": "泡芙云订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "一个账号能同时连接几台设备？",
+          "AI_FAQ_QUESTION_4": "月付和年付的差别是什么？",
+          "AI_FAQ_QUESTION_5": "遇到节点延迟高或断流怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f1846f172ce6b1b3306c873bc89617aca274f632bbbd14e5ff7317bc0e4fcfd1",
+    "sitemap.xml": "f957c4905cfd4d2d2e32f784bd4a5efee5094f643ef1981eb69fbfd964137dd1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "92ac569d49741a026dd52a747dd212d26dedf52941d862b65c80d55c8acae41f"
+}
